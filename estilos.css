@@ -1,0 +1,45 @@
+@import url('https://use.typekit.net/yic5smi.css&nsq5gna.css');
+
+
+body {
+    background-image: url("/Fotos/fondo7-02.jpg");
+    font-family: 'LUST', monospace;
+    color: rgb(247, 247, 247);
+    padding-top: 1%;
+    padding-right: 3%;
+    text-align: right;
+}
+
+#parrafo {
+    padding-bottom: 0%;
+    text-align: center;
+    color: rgb(247, 247, 247);
+    font-family: "Best Choice";
+    font-size: 1.5em;
+    font-style: normal;
+}
+
+#parrafo2 {
+    margin-left: 6%;
+    padding-top: 2%;
+    text-align: left;
+    color: rgb(247, 247, 247);
+    font-family: "Best Choice";
+    font-size: 1.5em;
+}
+
+a {
+    font-family: "Best Choice";
+    Display: inline-block;
+    list-style: none;
+    border: solid white 0.5px;
+    border-radius: 55%;
+    padding: 15px;
+    
+    }
+
+h1 {
+    padding-top: 3%;
+    font-size: 5em;
+    text-align: center;
+}
